@@ -2,8 +2,7 @@
   "name": "acme-email-client",
   "scripts": {
     "start:shell": "ng serve --project=acme-email-client --port 5200",
-    "start:mailbox": "ng serve --project=mailbox --port 5300",
-    "start:calendar": "ng serve --project=calendar --port 5400"
+    "start:mailbox": "ng serve --project=mailbox --port 5300"
   },
   "dependencies": {
     "@angular/animations": "~12.1.2",
